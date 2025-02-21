@@ -151,6 +151,9 @@ UPROGS=\
 	$U/_zombie\
 	$U/_sleep\
 	$U/_test\
+	$U/_pingpong\
+	$U/_forkexec\
+	$U/_find\
 
 
 ifeq ($(LAB),syscall)
